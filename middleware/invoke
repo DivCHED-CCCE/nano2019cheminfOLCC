@@ -5,5 +5,7 @@
 #
 /usr/bin/invoke_app "$@" -t cheminf2019olcc\
                          -C "start_jupyter -t -T @tool cheminfOLCC2019.ipynb" \
-                         -u anaconda-7
+                         -u anaconda-7\
+                         -r none\
+                         -w headless
 
