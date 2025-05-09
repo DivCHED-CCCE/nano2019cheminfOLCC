@@ -1,1 +1,0 @@
-I noted the bin folder did not get transferred to nanoFORGE and think it may be because it was empty, so I am putting this file in it.
