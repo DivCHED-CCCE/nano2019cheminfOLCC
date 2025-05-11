@@ -10,6 +10,9 @@ def scrollable_box(content, height='300px'):
 
     Returns:
         None
+        
+    Syntax:
+        tools.scrollable_box(long_string_to_be_printed, height='150px')
     """
     if isinstance(content, list):
         content = "<br>".join(str(item) for item in content)

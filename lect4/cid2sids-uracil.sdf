@@ -1,5 +1,5 @@
 3272
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
   749.0750 -432.7370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -84,7 +84,7 @@ https://biocyc.org/compound?orgid=META&id=URACIL
 
 $$$$
 3406
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    26.6977  -20.7481    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ http://www.genome.jp/dbget-bin/www_bget?cpd:C00106
 
 $$$$
 70371
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
    -2.2231   -6.6495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -253,7 +253,7 @@ http://dtp.nci.nih.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=h
 
 $$$$
 89283
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     4.6471   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -327,7 +327,7 @@ http://dtp.nci.nih.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=h
 
 $$$$
 589180
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  10 10  0     0  0  0  0  0  0999 V2000
     1.1747   -1.8824   -0.0180 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -396,7 +396,7 @@ http://www.nmrshiftdb.org/portal/js_pane/P-Results/nmrshiftdbaction/showDetailsF
 
 $$$$
 604354
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.3375   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -470,7 +470,7 @@ http://chemdb.niaid.nih.gov/CompoundDetails.aspx?AIDSNO=009895
 
 $$$$
 821039
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    56.0820  117.3680  -34.7780 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -547,7 +547,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=19179
 
 $$$$
 830285
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    38.4590    5.2980   99.5260 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -624,7 +624,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=11965
 
 $$$$
 833238
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -6.9130   -7.5200   24.5960 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -701,7 +701,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=27959
 
 $$$$
 833317
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    21.9440    8.6400    9.0140 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -778,7 +778,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=25155
 
 $$$$
 834627
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    12.4250    3.8390   16.5840 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -855,7 +855,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=11399
 
 $$$$
 836299
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    12.7040    3.5660   16.6680 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -932,7 +932,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=11060
 
 $$$$
 841435
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.9583   -1.3042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1015,7 +1015,7 @@ http://www.bind.ca/Action?pg=3001&butval=search&identifier=smallmoleculeid&searc
 
 $$$$
 854875
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     7.7090  138.2120    6.8240 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1092,7 +1092,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=32370
 
 $$$$
 4918950
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1152,7 +1152,7 @@ http://cdb.ics.uci.edu/CHEMDB/Web/cgibin/ChemicalDetailWeb.py?chemical_id=466306
 
 $$$$
 6912247
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1212,7 +1212,7 @@ http://cdb.ics.uci.edu/CHEMDB/Web/cgibin/ChemicalDetailWeb.py?chemical_id=396940
 
 $$$$
 7847095
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    25.4793  -18.6495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1279,7 +1279,7 @@ http://www.genome.jp/dbget-bin/www_bget?dr:D00027
 
 $$$$
 7891019
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -6.9130   -7.5200   24.5960 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1346,7 +1346,7 @@ http://smid.blueprint.org/SMInfo.php?hetname=URA
 
 $$$$
 8020444
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    56.9750   27.8430   34.2850 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1422,8 +1422,85 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=33543
 4
 
 $$$$
+8027535
+  -OEChem-05112513033D
+
+  8  8  0     0  0  0  0  0  0999 V2000
+   61.6170  -41.4620   10.7510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   62.1990  -37.4930   12.5630 O   0  0  0  0  0  0  0  0  0  0  0  0
+   61.9220  -39.4940   11.6800 N   0  0  0  0  0  0  0  0  0  0  0  0
+   60.3900  -39.7430    9.8710 N   0  0  0  0  0  0  0  0  0  0  0  0
+   61.3280  -40.2610   10.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   61.6350  -38.2030   11.7230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   60.7190  -37.6440   10.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   60.0940  -38.4460    9.9110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_MMDB_MOLECULE_NAME>
+UDP
+URIDINE-5'-DIPHOSPHATE
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+8027535
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+5
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+MMDB
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+36202.19
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+PDB Accession Code 2BIS
+Structure of glycogen synthase from Pyrococcus abyssi
+TRANSFERASE
+Structure of glycogen synthase from Pyrococcus abyssi; GLYCOSYLTRANSFERASE FAMILY, 5 UDP/ADP-GLUCOSE-GLYCOGEN SYNTHASE, TWO ROSSMAN FOLDS, TRANSFERASE; Mol_id: 1; Molecule: GLGA GLYCOGEN SYNTHASE; Chain: A, B, C; EC number: 2.4.1.21;
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+URIDINE-5'-DIPHOSPHATE
+UDP
+
+> <PUBCHEM_XREF_EXT_ID>
+36202.19
+
+> <PUBCHEM_NCBI_MMDB_ID>
+36202
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.ncbi.nlm.nih.gov/Structure/MMDB/mmdb.shtml
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=36202
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+> <PUBCHEM_CONFORMER_ID>
+007A7D8F00050001
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+3
+4
+
+$$$$
 8136902
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     5.7750   -7.6167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1485,7 +1562,7 @@ NSC3970
 
 $$$$
 8144098
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1555,7 +1632,7 @@ http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17568
 
 $$$$
 8151009
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1619,7 +1696,7 @@ https://www.discoverygate.com/interlink/search?KeyName=EXTREG&KeyValue=1174&Data
 
 $$$$
 10532080
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    60.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1679,7 +1756,7 @@ http://webbook.nist.gov/cgi/cbook.cgi?InChI=InChI%3D1/C4H4N2O2/c7-3-1-2-5-4%288%
 
 $$$$
 11408110
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.3383   -1.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1741,7 +1818,7 @@ http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=3065566
 
 $$$$
 11447426
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.3383   -1.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1805,7 +1882,7 @@ http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=1004870
 
 $$$$
 14747492
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.9292   -1.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1861,7 +1938,7 @@ http://www.thomson-pharma.com/report/chemistry?ch=TS00001172
 
 $$$$
 16250541
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.6204   -2.2409    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1917,7 +1994,7 @@ http://www.thomson-pharma.com/report/chemistry?ch=TS01688843
 
 $$$$
 16957391
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.5542   -3.0333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1977,7 +2054,7 @@ http://www.specs.net/enter.php?specsid=AC-907/30002021
 
 $$$$
 22425032
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.6936   -2.2439    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2033,7 +2110,7 @@ http://www.thomson-pharma.com/report/chemistry?ch=TS02328549
 
 $$$$
 24439523
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2097,7 +2174,7 @@ http://www.chemspider.com/Chemical-Structure.1141.html
 
 $$$$
 24900618
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2156,7 +2233,7 @@ https://www.sigmaaldrich.com/catalog/product/sigma/u0750?utm_source=pubchem&utm_
 
 $$$$
 24900623
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2215,7 +2292,7 @@ https://www.sigmaaldrich.com/catalog/product/sigma/u1128?utm_source=pubchem&utm_
 
 $$$$
 26709475
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.8230   23.3550   42.9100 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2292,7 +2369,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=50617
 
 $$$$
 26711785
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -7.4610   13.2510    4.8420 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2368,83 +2445,8 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=57550
 4
 
 $$$$
-26714117
-  -OEChem-04102512423D
-
-  8  8  0     0  0  0  0  0  0999 V2000
-   61.6170  -41.4620   10.7510 O   0  0  0  0  0  0  0  0  0  0  0  0
-   62.1990  -37.4930   12.5620 O   0  0  0  0  0  0  0  0  0  0  0  0
-   61.9220  -39.4930   11.6800 N   0  0  0  0  0  0  0  0  0  0  0  0
-   60.3890  -39.7430    9.8710 N   0  0  0  0  0  0  0  0  0  0  0  0
-   61.3270  -40.2610   10.7790 C   0  0  0  0  0  0  0  0  0  0  0  0
-   61.6340  -38.2020   11.7220 C   0  0  0  0  0  0  0  0  0  0  0  0
-   60.7190  -37.6440   10.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
-   60.0940  -38.4450    9.9110 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  5  2  0  0  0  0
-  2  6  2  0  0  0  0
-  3  5  1  0  0  0  0
-  3  6  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4  8  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  2  0  0  0  0
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_MMDB_MOLECULE_NAME>
-UDP
-
-> <PUBCHEM_TOTAL_CHARGE>
-0
-
-> <PUBCHEM_SUBSTANCE_ID>
-26714117
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-11
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-MMDB
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-36202.13
-
-> <PUBCHEM_SUBSTANCE_COMMENT>
-PDB Accession Code 2BIS
-Structure Of Glycogen Synthase From Pyrococcus Abyssi
-Transferase
-Structure Of Glycogen Synthase From Pyrococcus Abyssi Glycosyltransferase Family, 5 UdpADP-Glucose-Glycogen Synthase, Two Rossman Folds, Transferase Mol_id: 1; Molecule: Glga Glycogen Synthase; Chain: A, B, C; Ec: 2.4.1.21; Engineered: Yes
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-UDP
-
-> <PUBCHEM_XREF_EXT_ID>
-36202.13
-
-> <PUBCHEM_NCBI_MMDB_ID>
-36202
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-https://www.ncbi.nlm.nih.gov/Structure/MMDB/mmdb.shtml
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=36202
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-> <PUBCHEM_CONFORMER_ID>
-0197A005000B0001
-
-> <PUBCHEM_COORDINATE_TYPE>
-2
-3
-4
-
-$$$$
 31636839
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2500,7 +2502,7 @@ http://www.chemspider.com/Chemical-Structure.13933600.html
 
 $$$$
 32620440
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2556,7 +2558,7 @@ http://www.chemspider.com/Chemical-Structure.14526641.html
 
 $$$$
 37390689
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -2.3027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2612,7 +2614,7 @@ http://www.chemspider.com/Chemical-Structure.10663771.html
 
 $$$$
 38544504
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2668,7 +2670,7 @@ http://www.chemspider.com/Chemical-Structure.11388602.html
 
 $$$$
 46393311
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    21.9440    8.6400    9.0140 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2742,7 +2744,7 @@ http://www.pdbbind.org.cn/quickpdb.asp?quickpdb=1ui0
 
 $$$$
 46488312
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.6260    3.7220   26.9540 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2819,7 +2821,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=61455
 
 $$$$
 46504697
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2879,7 +2881,7 @@ https://www.drugbank.ca/drugs/DB03419
 
 $$$$
 48414616
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2948,7 +2950,7 @@ http://potency.berkeley.edu/chempages/URACIL.html
 
 $$$$
 48414919
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3014,7 +3016,7 @@ http://www.epa.gov/ncct/dsstox/sdf_epafhm.html
 
 $$$$
 49703430
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -28.5180   18.3640   23.5210 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3091,7 +3093,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=64356
 
 $$$$
 49829773
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.1375   -1.5542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3151,7 +3153,7 @@ http://www.trylead-chem.com/
 
 $$$$
 49857721
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3232,7 +3234,7 @@ http://www.leadscope.com/structure_search_results.php?ss_string=LS-7748
 
 $$$$
 50125765
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.1898    2.0212    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3288,7 +3290,7 @@ http://ncgc.nih.gov/db
 
 $$$$
 50608295
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -3328,7 +3330,7 @@ http://www.nextbio.com/b/search/ov/Uracil?id=860765&type=compound&synonym=Uracil
 
 $$$$
 51074322
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3387,7 +3389,7 @@ http://www.mpbio.com/product_info.php?open=&cPath=&selecttab=&family_key=0521003
 
 $$$$
 51088798
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.3383   -1.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3453,7 +3455,7 @@ http://mlsmr.evotec.com/MLSMR_HomePage/
 
 $$$$
 57320793
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3517,7 +3519,7 @@ http://www.novoseek.com/AccessPoint.action?corpus=MEDLINE&externalDBId=cid%3d117
 
 $$$$
 57581115
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    49.8660    8.8420    0.4000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3594,7 +3596,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=71322
 
 $$$$
 57581116
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    53.3040    6.5510   -1.0750 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3671,7 +3673,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=71323
 
 $$$$
 57939517
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.7366   -0.9910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3734,7 +3736,7 @@ http://www.request.vitasmlab.biz/index.php?option=com_search_stk&Itemid=22&stk=S
 
 $$$$
 76715622
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -3816,7 +3818,7 @@ http://ctdbase.org/detail.go?type=chem&acc=D014498
 
 $$$$
 81040378
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.2990    3.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3875,7 +3877,7 @@ http://www.ispharm.com/product/I03-0056.html
 
 $$$$
 81063370
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    20.9760   74.9690   -6.2810 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3952,7 +3954,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=59351
 
 $$$$
 85090286
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4012,7 +4014,7 @@ http://www.mpbio.com/product_info.php?open=&cPath=&selecttab=&family_key=0210320
 
 $$$$
 85090287
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4072,7 +4074,7 @@ http://www.mpbio.com/product_info.php?open=&cPath=&selecttab=&family_key=0219476
 
 $$$$
 85165007
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4156,7 +4158,7 @@ http://www.bmrb.wisc.edu/metabolomics/mol_summary/index.php?molName=uracil&id=bm
 
 $$$$
 87577744
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.2751   -2.0611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4232,7 +4234,7 @@ http://www.tcichemicals.com/eshop/en/us/commodity/U0013/index.html
 
 $$$$
 88010254
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     7.1147   -3.5490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4288,7 +4290,7 @@ https://www.molport.com/shop/molecule-link/MolPort-000-514-602
 
 $$$$
 88684034
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.5241   -0.2590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4344,7 +4346,7 @@ https://www.molport.com/shop/molecule-link/MolPort-001-641-045
 
 $$$$
 89649977
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -15.4190   38.7920  -21.1920 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4421,7 +4423,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=80850
 
 $$$$
 92298109
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4481,7 +4483,7 @@ http://gmd.mpimp-golm.mpg.de/Metabolites/E2FC11E5-1887-46DF-B415-82313CE9B2BD.as
 
 $$$$
 92708757
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.2070   37.4750 -321.3090 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4558,7 +4560,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=81708
 
 $$$$
 99350629
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.1710   -0.7100   19.7390 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4635,7 +4637,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=85142
 
 $$$$
 103162392
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    20.9080   70.3600   51.2920 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4712,7 +4714,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=87391
 
 $$$$
 103178944
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.0083    0.5833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4783,7 +4785,7 @@ https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL566
 
 $$$$
 103852164
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4844,7 +4846,7 @@ http://www.aaa-chem.com
 
 $$$$
 104296978
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4912,7 +4914,7 @@ http://www.abichem.com
 
 $$$$
 104668412
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.5344   -0.3094    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4974,7 +4976,7 @@ http://akoscompounds.de/catalogue/akossamplesretrieval.php?IDNUMBERS=AKOS0001199
 
 $$$$
 106851196
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.5458    0.2864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5036,7 +5038,7 @@ http://akoscompounds.de/catalogue/akossamplesretrieval.php?IDNUMBERS=AKOS0023039
 
 $$$$
 115001651
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    24.3400    2.2950   24.1590 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5113,7 +5115,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=89417
 
 $$$$
 117356495
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5170,7 +5172,7 @@ http://www.abichem.com
 
 $$$$
 117594046
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5227,7 +5229,7 @@ http://www.abichem.com
 
 $$$$
 117664333
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.8969    4.4500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5295,7 +5297,7 @@ http://www.oakwoodchemical.com/ProductsList.aspx?CategoryID=-2&txtSearch=30283&E
 
 $$$$
 121362137
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.0697   -3.6385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5357,7 +5359,7 @@ http://iccb.med.harvard.edu/compound_library/msdiscovery-1/
 
 $$$$
 124349713
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -52.8110  -34.6110   34.4200 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5434,7 +5436,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=91429
 
 $$$$
 124385241
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    20.0040   -7.7720   -7.3860 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5511,7 +5513,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=92221
 
 $$$$
 124633721
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    -0.0163    1.3509    0.0095 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5575,7 +5577,7 @@ CCG-35866
 
 $$$$
 124800797
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.3383   -1.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5634,7 +5636,7 @@ http://iccb.med.harvard.edu/
 
 $$$$
 124954031
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.1786   -1.5469    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5687,7 +5689,7 @@ NCGC00247663-01
 
 $$$$
 124983012
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.2181   -1.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5750,7 +5752,7 @@ http://www.request.vitasmlab.biz/index.php?option=com_search_stk&Itemid=22&stk=S
 
 $$$$
 125001571
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    14.8200  -18.6620   -9.1180 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5827,7 +5829,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=92894
 
 $$$$
 126539348
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.4331   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5890,7 +5892,7 @@ http://www.chemsynthesis.com/base/chemical-structure-7237.html
 
 $$$$
 126590070
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.8041   -3.5391    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5953,7 +5955,7 @@ http://www.chemmol.com/chemmol/1203037.html
 
 $$$$
 126648186
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7542   -2.0042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6016,7 +6018,7 @@ http://www.chemmol.com/chemmol/44010872.html
 
 $$$$
 126677911
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6087,7 +6089,7 @@ http://www.chemmol.com/chemmol/49416560.html
 
 $$$$
 127273868
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6153,7 +6155,7 @@ uracil
 
 $$$$
 127273869
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6219,7 +6221,7 @@ uracil
 
 $$$$
 127273870
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6285,7 +6287,7 @@ uracil
 
 $$$$
 127273871
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6351,7 +6353,7 @@ uracil
 
 $$$$
 127273872
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6417,7 +6419,7 @@ uracil
 
 $$$$
 127273873
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6483,7 +6485,7 @@ uracil
 
 $$$$
 127273874
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6549,7 +6551,7 @@ uracil
 
 $$$$
 127273875
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6615,7 +6617,7 @@ uracil
 
 $$$$
 127273876
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6681,7 +6683,7 @@ uracil
 
 $$$$
 127273877
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6747,7 +6749,7 @@ uracil
 
 $$$$
 127273878
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6813,7 +6815,7 @@ uracil
 
 $$$$
 127273879
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6879,7 +6881,7 @@ uracil
 
 $$$$
 127273880
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6945,7 +6947,7 @@ uracil
 
 $$$$
 127273881
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7011,7 +7013,7 @@ uracil
 
 $$$$
 127273882
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7077,7 +7079,7 @@ uracil
 
 $$$$
 127273883
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7143,7 +7145,7 @@ uracil
 
 $$$$
 127273884
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7209,7 +7211,7 @@ uracil
 
 $$$$
 127273885
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7275,7 +7277,7 @@ uracil
 
 $$$$
 127273886
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7341,7 +7343,7 @@ uracil
 
 $$$$
 127273887
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7407,7 +7409,7 @@ uracil
 
 $$$$
 127273888
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7473,7 +7475,7 @@ uracil
 
 $$$$
 127273889
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7539,7 +7541,7 @@ uracil
 
 $$$$
 127273890
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7605,7 +7607,7 @@ uracil
 
 $$$$
 127273891
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7671,7 +7673,7 @@ uracil
 
 $$$$
 127273892
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7737,7 +7739,7 @@ uracil
 
 $$$$
 127273893
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7803,7 +7805,7 @@ uracil
 
 $$$$
 127273894
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7869,7 +7871,7 @@ uracil
 
 $$$$
 127273895
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7935,7 +7937,7 @@ uracil
 
 $$$$
 127273896
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8001,7 +8003,7 @@ uracil
 
 $$$$
 127342673
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8067,7 +8069,7 @@ pyrimidinedione
 
 $$$$
 127342674
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8133,7 +8135,7 @@ pyrimidinedione
 
 $$$$
 127484650
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8195,7 +8197,7 @@ http://www.almaden.ibm.com
 
 $$$$
 127594944
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9648,7 +9650,7 @@ http://www.ibm.com/gbs/nih/?sid=CAD01C9C672A400103056871BE612ACB&ik=ISAKRJDGNUQO
 
 $$$$
 128212147
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15464,7 +15466,7 @@ http://www.ibm.com/gbs/nih/?sid=62E0882F413BF6C2BA49C845DAA8DBED&ik=ISAKRJDGNUQO
 
 $$$$
 128593395
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15661,7 +15663,7 @@ http://www.ibm.com/gbs/nih/?sid=84F1A9FF6F0543DF27BE51460E012122&ik=MGTYLESMGMUB
 
 $$$$
 129774055
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16884,7 +16886,7 @@ http://www.ibm.com/gbs/nih/?sid=BBE46D080060C6C883F760015BF0F109&ik=YCAXNAOVGXOR
 
 $$$$
 131322919
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -16892,7 +16894,7 @@ M  END
 0
 
 > <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "66-22-8", "1,2,3,4-tetrahydropyrimidine-2,4-dione", "MFCD00006016", "A835376" and Synonym Consistency to be CID 1174
+Deposited Substance chemical structure was generated via Synonym(s) "66-22-8", "1,2,3,4-tetrahydropyrimidine-2,4-dione", "MFCD00006016" and Synonym Consistency to be CID 1174
 
 > <PUBCHEM_SUBSTANCE_ID>
 131322919
@@ -16929,7 +16931,7 @@ https://www.amadischem.com/product-A835376
 
 $$$$
 134373060
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17311,7 +17313,7 @@ http://www.ibm.com/gbs/nih/?sid=3F6E9065D9DBB2A144BAA9977660BB07&ik=
 
 $$$$
 134972784
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.5410    0.3011    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17416,7 +17418,7 @@ https://pubchem.ncbi.nlm.nih.gov/substance/?source=ChemIDplus&sourceid=000006622
 
 $$$$
 135702001
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.4500   -1.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17475,7 +17477,7 @@ http://www.chemmol.com/chemmol/96700064.html
 
 $$$$
 135804407
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17540,7 +17542,7 @@ http://www.ibm.com/gbs/nih/?sid=21551E418E79D7149D776FA49AFBBE78&ik=
 
 $$$$
 136058839
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17602,7 +17604,7 @@ http://www.ibm.com/gbs/nih/?sid=8B7DF4D4C1F6607D211C39108A5490AF&ik=HZUQREFRMUVP
 
 $$$$
 136889689
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.4500   -1.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17664,7 +17666,7 @@ URACIL
 
 $$$$
 139534938
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0717    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17772,7 +17774,7 @@ http://dcv.uhnres.utoronto.ca/SCRIPDB/results/?patentid=US07179768-20070220-C000
 
 $$$$
 142339554
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -4.5728   10.7981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18226,7 +18228,7 @@ http://dcv.uhnres.utoronto.ca/SCRIPDB/results/?patentid=US06197770-20010306-C000
 
 $$$$
 143432967
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.2976   -1.5006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18283,7 +18285,7 @@ http://www.timtec.net
 
 $$$$
 144020897
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.7366   -0.9910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18343,7 +18345,7 @@ http://www.echemstore.com/st45061548-pyrimidine-2-4-diol.html
 
 $$$$
 144076127
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.8726    2.5245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18414,7 +18416,7 @@ http://dtp.nci.nih.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=h
 
 $$$$
 144080941
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18493,7 +18495,7 @@ http://www.bmrb.wisc.edu/metabolomics/mol_summary/show_data.php?molName=uracil&i
 
 $$$$
 144206233
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18560,7 +18562,7 @@ https://tripod.nih.gov/tox/samples
 
 $$$$
 144208221
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18627,7 +18629,7 @@ https://tripod.nih.gov/tox/samples
 
 $$$$
 152242437
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18690,7 +18692,7 @@ https://www.capotchem.com/66-22-8.html
 
 $$$$
 152255476
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    44.3680   57.4350   38.6910 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18767,7 +18769,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=18567
 
 $$$$
 160661123
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    36.9570   38.3320  -11.0950 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18844,7 +18846,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=35977
 
 $$$$
 160798874
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18904,7 +18906,7 @@ http://www.anward.com/pro_result/9221
 
 $$$$
 160802666
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18968,7 +18970,7 @@ http://www.anward.com/pro_result/30285
 
 $$$$
 160966542
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19037,7 +19039,7 @@ http://www.chembase.cn/molecule-3098.html
 
 $$$$
 162089004
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19100,7 +19102,7 @@ http://www.chembase.cn/molecule-105849.html
 
 $$$$
 162170347
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7083    2.4739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19168,7 +19170,7 @@ http://www.aksci.com/item_detail.php?cat=365390
 
 $$$$
 162266731
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19228,7 +19230,7 @@ http://www.achemica.com/prodinfo/?id=20137
 
 $$$$
 162276424
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19292,7 +19294,7 @@ http://www.achemica.com/prodinfo/?id=83201
 
 $$$$
 162540905
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19354,7 +19356,7 @@ http://www.chemtik.com/pro_result/163699/
 
 $$$$
 162545502
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19414,7 +19416,7 @@ http://www.chemtik.com/pro_result/168296/
 
 $$$$
 162557819
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19476,7 +19478,7 @@ http://www.chemtik.com/pro_result/180613/
 
 $$$$
 162572210
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19538,7 +19540,7 @@ http://www.chemtik.com/pro_result/195004/
 
 $$$$
 162630153
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19602,7 +19604,7 @@ http://www.chemtik.com/pro_result/252948/
 
 $$$$
 163370718
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -5.6860   21.3870   14.6570 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19679,7 +19681,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=110603
 
 $$$$
 163373558
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19739,7 +19741,7 @@ http://www.arkpharminc.com/products/66-22-8.html
 
 $$$$
 163577362
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.9750   -3.3750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19793,7 +19795,7 @@ BB 0242167
 
 $$$$
 163805964
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19857,7 +19859,7 @@ http://www.kingscientific.com/pro_result/10773/
 
 $$$$
 163819811
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0200   -0.7472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19923,7 +19925,7 @@ http://www.oakwoodchemical.com/ProductsList.aspx?CategoryID=-2&txtSearch=80992&E
 
 $$$$
 163821544
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.4030   -4.9050   20.4350 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20000,7 +20002,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=112637
 
 $$$$
 164027118
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    67.6860  -39.2540   -4.5600 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20077,7 +20079,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=113384
 
 $$$$
 164195666
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20136,7 +20138,7 @@ https://astatechinc.com/CPSResult.php?CRNO=687
 
 $$$$
 164794925
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20199,7 +20201,7 @@ https://www.finetechnology-ind.com/prod/detail/66-22-8
 
 $$$$
 164846943
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20262,7 +20264,7 @@ https://www.finetechnology-ind.com/prod/detail/766-19-8
 
 $$$$
 164848775
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20325,7 +20327,7 @@ https://www.finetechnology-ind.com/prod/detail/626-07-3
 
 $$$$
 164848776
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20388,7 +20390,7 @@ https://www.finetechnology-ind.com/prod/detail/6165-71-5
 
 $$$$
 169994469
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20440,7 +20442,7 @@ https://mcule.com/MCULE-1147953020
 
 $$$$
 170465915
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20507,7 +20509,7 @@ https://tripod.nih.gov/tox/samples
 
 $$$$
 170475156
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    71.2370   75.1950   70.8500 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20584,7 +20586,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=115880
 
 $$$$
 172088451
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20644,7 +20646,7 @@ http://www.apexmol.com/66-22-8.html
 
 $$$$
 172383986
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20703,7 +20705,7 @@ http://www.angenechemical.com/productshow/AGN-PC-005B5F.html
 
 $$$$
 174550120
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    2.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20767,7 +20769,7 @@ http://www.rennotech.com/product_show.asp?id=24728
 
 $$$$
 175267171
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7081   -1.2403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20856,7 +20858,7 @@ https://gsrs.ncats.nih.gov/ginas/app/beta/substances/56HH86ZVCT
 
 $$$$
 175442307
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20922,7 +20924,7 @@ http://www.iedb.org/epId/120356
 
 $$$$
 175610928
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.7792   -4.8750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20978,7 +20980,7 @@ http://www.lsi.umich.edu/ccg
 
 $$$$
 176254664
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21034,7 +21036,7 @@ https://ofmpub.epa.gov/sor_internet/registry/substreg/LandingPage.do
 
 $$$$
 178101281
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21098,7 +21100,7 @@ http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4560
 
 $$$$
 178127022
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21156,7 +21158,7 @@ http://iccb.med.harvard.edu/compound_library/molecular-libraries-program-mlp-11/
 
 $$$$
 179292940
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21212,7 +21214,7 @@ https://app.collaborativedrug.com/public/structures/128716
 
 $$$$
 179323945
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21268,7 +21270,7 @@ https://app.collaborativedrug.com/public/structures/1147815
 
 $$$$
 184622995
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.3383   -1.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21327,7 +21329,7 @@ http://www.southernresearch.org/research/hts-center.html
 
 $$$$
 186012931
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21394,7 +21396,7 @@ http://www.Aurumpharmatech.com/Product/ProductDetails/M_6157
 
 $$$$
 186023019
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21461,7 +21463,7 @@ http://www.Aurumpharmatech.com/Product/ProductDetails/X_2151
 
 $$$$
 187566379
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.2398   -0.9309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21525,7 +21527,7 @@ http://www.keyorganics.net/bionet/catalog/product/view/id/407851
 
 $$$$
 202549787
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21586,7 +21588,7 @@ http://www.debyesci.com/DB-030518.html
 
 $$$$
 204416150
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21650,7 +21652,7 @@ http://www.tractuschem.com/productshow/TC-120118.html
 
 $$$$
 222532689
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21709,7 +21711,7 @@ http://www.angenechemical.com/productshow/AGN-PC-0OBMC8.html
 
 $$$$
 223400160
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21770,7 +21772,7 @@ http://www.assemblyblocks.com
 
 $$$$
 223469033
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21829,7 +21831,7 @@ http://www.ajpharmtech.com/
 
 $$$$
 223489801
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21888,7 +21890,7 @@ http://www.ajpharmtech.com/
 
 $$$$
 223533309
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21947,7 +21949,7 @@ http://www.ajpharmtech.com/
 
 $$$$
 223678073
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22015,7 +22017,7 @@ http://www.anpharma.net
 
 $$$$
 223755612
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22295,7 +22297,7 @@ http://nextmovesoftware.com/
 
 $$$$
 226399480
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1512   -2.4603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22359,7 +22361,7 @@ https://www.surechembl.org/chemical/SCHEMBL8235
 
 $$$$
 241035781
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22422,7 +22424,7 @@ http://www.chemmol.com/chemmol/99044885.html
 
 $$$$
 241091250
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22485,7 +22487,7 @@ http://www.chemmol.com/chemmol/99100354.html
 
 $$$$
 241117197
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22548,7 +22550,7 @@ http://www.chemmol.com/chemmol/99126301.html
 
 $$$$
 242058844
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    3.1400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22609,7 +22611,7 @@ http://www.4cpharmainc.com/product/756.html
 
 $$$$
 242080538
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -4.4580   22.6010  -10.9490 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22686,7 +22688,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=127423
 
 $$$$
 242659425
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    33.5140   57.0740   30.3980 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22763,7 +22765,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=127789
 
 $$$$
 247673320
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22911,7 +22913,7 @@ http://www.ibm.com/gbs/nih/?sid=BF1570CD744B11AEBAAF180D65021056&ik=XZFVZNSJMRKH
 
 $$$$
 248973379
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22976,7 +22978,7 @@ http://www.ibm.com/gbs/nih/?sid=F0AD2AE2907A4D41378341D6C052EEC8&ik=
 
 $$$$
 249982759
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    27.0000  -15.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23050,7 +23052,7 @@ http://www.nist.gov/srd/nist1a.cfm
 
 $$$$
 250208310
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23113,7 +23115,7 @@ http://www.pku-hc.com/en/
 
 $$$$
 251881026
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23177,7 +23179,7 @@ http://www.labseeker.com/goods.php?id=1471
 
 $$$$
 251964800
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    28.9520  -27.3220   10.3490 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23254,7 +23256,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=129969
 
 $$$$
 251964806
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -52.6480   12.8610  -25.3500 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23331,7 +23333,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=129972
 
 $$$$
 252106418
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -12.4610  -13.4250    4.5560 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23408,7 +23410,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=130854
 
 $$$$
 252106541
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    27.0720   -7.8510   41.1220 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23485,7 +23487,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=130893
 
 $$$$
 252106547
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    67.7090    4.5820   78.1810 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23562,7 +23564,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=130895
 
 $$$$
 252106550
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7180   13.0200  -11.3560 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23639,7 +23641,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=130896
 
 $$$$
 252300493
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -22.8500   -2.5670   14.5100 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23716,7 +23718,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=132439
 
 $$$$
 252304054
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23779,7 +23781,7 @@ http://www.aechemsc.com/info_products/AE1-003573.php
 
 $$$$
 252358320
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.4320   -0.9092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23842,7 +23844,7 @@ http://www.ahhchemical.com/product/MT-60289.html
 
 $$$$
 252400617
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.5678   -0.6406    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23905,7 +23907,7 @@ http://www.ahhchemical.com/product/MB-01031.html
 
 $$$$
 252447787
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23964,7 +23966,7 @@ http://www.molepedia.com/
 
 $$$$
 253652962
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24028,7 +24030,7 @@ http://www.labseeker.com/goods.php?id=41943
 
 $$$$
 253664087
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24087,7 +24089,7 @@ http://www.chemreagents.com/Product/Product.asp?ProductID=811590
 
 $$$$
 254761593
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -24133,7 +24135,7 @@ https://www.bocsci.com/product/uracil-cas-66-22-8-291312.html
 
 $$$$
 255400203
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24192,7 +24194,7 @@ http://www.ox-chem.com/pc/en/product_item.aspx?ID=AX8034549
 
 $$$$
 255916948
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24251,7 +24253,7 @@ http://zinc.docking.org/substances/ZINC895045/
 
 $$$$
 273012538
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24314,7 +24316,7 @@ http://www.chemshuttle.com/catalogsearch/result/?q=66-22-8&cat=
 
 $$$$
 274087259
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24381,7 +24383,7 @@ http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J4.842I
 
 $$$$
 274953250
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.8708   -7.7542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24444,7 +24446,7 @@ http://www.chemfaces.com/natural/Uracil-CFN97132.html
 
 $$$$
 275880869
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24503,7 +24505,7 @@ http://www.bepharm.com/web/en/product/pro_item.aspx?id=B34549
 
 $$$$
 276761829
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.2991   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24559,7 +24561,7 @@ http://online.aurorafinechemicals.com/info?ID=K00.165.656
 
 $$$$
 277296020
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24621,7 +24623,7 @@ https://www.molcore.com/product/66-22-8
 
 $$$$
 292510731
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3019    1.4987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24677,7 +24679,7 @@ http://online.aurorafinechemicals.com/info?ID=A00.157.486
 
 $$$$
 310281579
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4287   -0.8218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24744,7 +24746,7 @@ http://www.glentham.com/products/product/GK0306/
 
 $$$$
 312225710
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24804,7 +24806,7 @@ http://www.metabolomicsworkbench.org/data/StructureData.php?RegNo=37192
 
 $$$$
 312642672
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -5.8600  -21.5770   -1.2500 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24881,7 +24883,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=137792
 
 $$$$
 312695399
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24937,7 +24939,7 @@ https://www.targetmol.com/compound/Uracil
 
 $$$$
 313057925
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24993,7 +24995,7 @@ https://www.clearsynth.com/en/CST46139.html
 
 $$$$
 313082517
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -25033,7 +25035,7 @@ http://www.highassay.com/profile/aboutus.html
 
 $$$$
 313518586
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25093,7 +25095,7 @@ http://www.chemhere.com
 
 $$$$
 313518589
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25153,7 +25155,7 @@ http://www.chemhere.com
 
 $$$$
 313539905
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25213,7 +25215,7 @@ http://www.chemhere.com
 
 $$$$
 315342204
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0792   -1.6167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25277,7 +25279,7 @@ https://shop.lifechemicals.com/1/F1796-0008
 
 $$$$
 315446541
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25336,7 +25338,7 @@ http://phionchemicals.com/product-tag/66-22-8
 
 $$$$
 315494217
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     6.8572   -0.4396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25399,7 +25401,7 @@ http://www.achemo.com/search/?Keyword= 66-22-8
 
 $$$$
 315672314
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25460,7 +25462,7 @@ https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-
 
 $$$$
 316393335
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000   -1.1538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25524,7 +25526,7 @@ https://abcr.com/de_en/AB112079
 
 $$$$
 316920165
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.2542   -4.7917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25583,7 +25585,7 @@ http://www.southernresearch.org/
 
 $$$$
 316921513
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.2542   -4.7917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25642,7 +25644,7 @@ http://www.southernresearch.org/
 
 $$$$
 316967958
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25701,7 +25703,7 @@ http://www.parchem.com/chemical-supplier-distributor/Uracil-020246.aspx
 
 $$$$
 316968908
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25760,7 +25762,7 @@ http://www.parchem.com/chemical-supplier-distributor/2-4-dihydroxypyrimidine-021
 
 $$$$
 318154174
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25835,7 +25837,7 @@ http://www.apexbt.com/uracil.html
 
 $$$$
 318692939
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25975,7 +25977,7 @@ https://search.toxplanet.com/CategorySearch.aspx?cas_no=66-22-8
 
 $$$$
 321906132
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26038,7 +26040,7 @@ http://www.acadechemical.com/product/91692
 
 $$$$
 322093699
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26101,7 +26103,7 @@ http://www.pipharm.com/catalog/PI-37339.html
 
 $$$$
 328377460
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.4330    0.0026    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26164,7 +26166,7 @@ https://www.chemdiv.com/catalog/screening-compounds/compound-C200-9044/
 
 $$$$
 329735657
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -26207,7 +26209,7 @@ https://www.vladachem.com/product.php?products=66-22-8
 
 $$$$
 329751458
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26266,7 +26268,7 @@ https://www.sigmaaldrich.com/catalog/product/usp/1705753?utm_source=pubchem&utm_
 
 $$$$
 329770314
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26325,7 +26327,7 @@ https://www.sigmaaldrich.com/catalog/product/sial/94220?utm_source=pubchem&utm_c
 
 $$$$
 329823489
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26384,7 +26386,7 @@ https://www.sigmaaldrich.com/catalog/product/sial/phr1581?utm_source=pubchem&utm
 
 $$$$
 329828315
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26443,7 +26445,7 @@ http://www.sigmaaldrich.com/catalog/product/vetec/v001964?utm_source=pubchem&utm
 
 $$$$
 329829845
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26502,7 +26504,7 @@ https://www.sigmaaldrich.com/catalog/product/vetec/v900439?utm_source=pubchem&ut
 
 $$$$
 329831136
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.0722   -1.2075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26561,7 +26563,7 @@ https://www.sigmaaldrich.com/catalog/product/sial/y0000764?utm_source=pubchem&ut
 
 $$$$
 330000149
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -26606,7 +26608,7 @@ http://www.acornpharmatech.com
 
 $$$$
 335034291
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.4331    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26668,7 +26670,7 @@ https://www.enaminestore.com/catalog/Z56889474
 
 $$$$
 336295572
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4362    1.9810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26724,7 +26726,7 @@ http://cpccg.sanfordburnham.org
 
 $$$$
 339984716
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
   -21.8600   54.4470  -16.1670 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26809,7 +26811,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=151659
 
 $$$$
 340079402
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26872,7 +26874,7 @@ https://clue.io/repurposing
 
 $$$$
 340079403
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26935,7 +26937,7 @@ https://clue.io/repurposing
 
 $$$$
 340089121
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26993,7 +26995,7 @@ https://iccb.med.harvard.edu/known-bioactives-collection
 
 $$$$
 340098272
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    21.1340   11.4260   -8.9380 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27070,7 +27072,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=152546
 
 $$$$
 340128601
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    16.0530   31.7130   22.8450 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27147,7 +27149,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=152900
 
 $$$$
 340462347
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -4.1930   22.7760  -10.8600 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27224,7 +27226,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=153169
 
 $$$$
 340471713
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    3.1400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27287,7 +27289,7 @@ http://www.arkpharmtech.com/product/240556.html
 
 $$$$
 341139789
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.7401    1.7084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27346,7 +27348,7 @@ https://link.springer.com
 
 $$$$
 341163322
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.7401    1.7084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27405,7 +27407,7 @@ https://link.springer.com
 
 $$$$
 341226164
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.0000    1.6445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27464,7 +27466,7 @@ https://link.springer.com
 
 $$$$
 341226599
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.0000   -1.6445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27523,7 +27525,7 @@ https://link.springer.com
 
 $$$$
 341255477
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.0000   -0.5778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27582,7 +27584,7 @@ https://link.springer.com
 
 $$$$
 341255508
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.0000   -0.5778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27641,7 +27643,7 @@ https://link.springer.com
 
 $$$$
 342510061
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27704,7 +27706,7 @@ http://wubei-biochem.com/product/584140
 
 $$$$
 342529338
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27763,7 +27765,7 @@ http://wubei-biochem.com/product/495666
 
 $$$$
 342582245
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.6520   -2.2491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27816,7 +27818,7 @@ http://wikipathways.org
 
 $$$$
 342585571
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -5.8510  -21.6000   -1.2470 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27893,7 +27895,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=154696
 
 $$$$
 346402065
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27953,7 +27955,7 @@ http://www.kingscientific.com/goods/Goods/detail?id=KS-0000024N
 
 $$$$
 346674423
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28016,7 +28018,7 @@ https://labnetwork.com/frontend-app/p/#!/moleculedetails/LN00153185
 
 $$$$
 347854767
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28079,7 +28081,7 @@ https://www.finetechnology-ind.com/prod/detail/35978-19-9
 
 $$$$
 347914045
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     3.6326    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28143,7 +28145,7 @@ http://www.selleckchem.com/products/uracil.html
 
 $$$$
 348274386
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28209,7 +28211,7 @@ http://www.hmdb.ca/metabolites/HMDB0000300
 
 $$$$
 348352295
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28269,7 +28271,7 @@ https://www.chemscene.com/66-22-8.html
 
 $$$$
 349095698
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.6025    1.5026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28329,7 +28331,7 @@ http://www.chemieliva.com
 
 $$$$
 349095703
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.6025    1.5026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28389,7 +28391,7 @@ http://www.chemieliva.com
 
 $$$$
 349225028
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.6025    1.5026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28449,7 +28451,7 @@ http://www.chemieliva.com
 
 $$$$
 349225076
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.6025    1.5026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28509,7 +28511,7 @@ http://www.chemieliva.com
 
 $$$$
 349225270
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.6025    1.5026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28569,7 +28571,7 @@ http://www.chemieliva.com
 
 $$$$
 349995286
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28639,7 +28641,7 @@ https://db.idrblab.org/ttd/drug/D0Y0DG
 
 $$$$
 350081466
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -4.3730   22.7150  -11.0120 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28716,7 +28718,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=157422
 
 $$$$
 350089904
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28775,7 +28777,7 @@ http://www.dcchemicals.com//product_show-Uracil.html
 
 $$$$
 354703128
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28835,7 +28837,7 @@ https://www.lgcstandards.com/GB/en/p/MM0593.03-0025
 
 $$$$
 354915568
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28887,7 +28889,7 @@ https://www.rockefeller.edu/htsrc/
 
 $$$$
 355050834
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    54.8540   24.6420   32.4140 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28964,7 +28966,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=160291
 
 $$$$
 355243834
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.2042   -2.9167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29020,7 +29022,7 @@ http://www.molmall.net/product/12125
 
 $$$$
 355432850
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29124,7 +29126,7 @@ https://www.musechem.com/product/M101833.html
 
 $$$$
 355432851
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29228,7 +29230,7 @@ https://www.musechem.com/product/A000678.html
 
 $$$$
 363599807
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.6477    2.2439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29436,7 +29438,7 @@ https://mona.fiehnlab.ucdavis.edu/spectra/browse?query=exists(compound.metaData.
 
 $$$$
 363894939
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29557,7 +29559,7 @@ http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+genetox:@term+@DOCNO+275
 
 $$$$
 363901027
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29680,7 +29682,7 @@ http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+ccris:@term+@DOCNO+3077
 
 $$$$
 368505686
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29743,7 +29745,7 @@ http://www.ambinter.com/reference/18028577
 
 $$$$
 370870681
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29806,7 +29808,7 @@ http://www.ambinter.com/reference/1935200
 
 $$$$
 374060467
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29865,7 +29867,7 @@ https://www.combi-blocks.com/cgi-bin/find.cgi?QE-3760
 
 $$$$
 374129234
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29924,7 +29926,7 @@ https://www.combi-blocks.com/cgi-bin/find.cgi?SS-8349
 
 $$$$
 374210236
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29987,7 +29989,7 @@ https://www.aablocks.com/prod/51953-14-1
 
 $$$$
 375338067
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30050,7 +30052,7 @@ http://www.bldpharm.com/products/51953-14-1.html
 
 $$$$
 375431026
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30113,7 +30115,7 @@ http://www.bldpharm.com/products/66-22-8.html
 
 $$$$
 375582750
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30174,7 +30176,7 @@ http://www.biochempartner.com/66-22-8-BCP26546
 
 $$$$
 375668656
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30236,7 +30238,7 @@ https://www.hairuichem.com/en/product/66-22-8.html
 
 $$$$
 375787952
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30302,7 +30304,7 @@ https://www.001chemical.com/chem/66-22-8
 
 $$$$
 375972167
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -30348,7 +30350,7 @@ https://www.bocsci.com/4-3h-pyrimidinone-2-hydroxy-9ci-cas-66255-05-8-item-84998
 
 $$$$
 375984672
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.3139    0.3639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30401,7 +30403,7 @@ https://hts.research.uiowa.edu/
 
 $$$$
 375986783
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30461,7 +30463,7 @@ https://www.medchemexpress.com/2,4_1H,3H_-Pyrimidinedione.html
 
 $$$$
 376145465
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30520,7 +30522,7 @@ https://www.ambeed.com/products/66-22-8.html
 
 $$$$
 376286612
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.9418    0.2434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30573,7 +30575,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376286785
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.9524  -10.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30626,7 +30628,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376286840
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.8783  -10.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30679,7 +30681,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376347658
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.8783  -10.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30732,7 +30734,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376347659
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.9524  -10.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30785,7 +30787,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376654312
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -2.8884    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30838,7 +30840,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 376660893
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     2.8381    0.2847    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30895,7 +30897,7 @@ http://www.thieme-chemistry.com
 
 $$$$
 377311256
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30945,7 +30947,7 @@ SW220239-1
 
 $$$$
 377498590
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31004,7 +31006,7 @@ https://www.ambeed.com/products/51953-14-1.html
 
 $$$$
 377954591
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31060,7 +31062,7 @@ http://www.alichem.com/en/products/51953-14-1.html
 
 $$$$
 378020070
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31116,7 +31118,7 @@ http://www.alichem.com/en/products/66-22-8.html
 
 $$$$
 381002398
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -31159,7 +31161,7 @@ https://www.vladachem.com/product.php?products=66-22-8
 
 $$$$
 381013941
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -31202,7 +31204,7 @@ https://www.vladachem.com/product.php?products=66-22-8
 
 $$$$
 381118597
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31261,7 +31263,7 @@ http://www.ahhchemical.com/product/NP-1188.html
 
 $$$$
 381342326
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    11.1080    1.8910   16.9980 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31336,7 +31338,7 @@ http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/URA
 
 $$$$
 381360788
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -31379,7 +31381,7 @@ http://www.achemtek.com/66-22-8
 
 $$$$
 382163676
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31438,7 +31440,7 @@ http://www.biocrick.com/Uracil-BCN4211.html
 
 $$$$
 383308254
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31498,7 +31500,7 @@ http://www.norris-pharm.com/
 
 $$$$
 384150118
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.0917   -1.5042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31551,7 +31553,7 @@ http://www.innovapharm.com.ua
 
 $$$$
 384257697
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -31595,7 +31597,7 @@ https://us.vwr.com/store/product/7515753/uracil
 
 $$$$
 384403901
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    45.7510   67.7140   17.4870 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31680,7 +31682,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=175746
 
 $$$$
 384403906
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.4580   -5.9910   -6.6390 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31757,7 +31759,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=175749
 
 $$$$
 384404587
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
   -19.8490   50.0130  -26.2010 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31842,7 +31844,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=176104
 
 $$$$
 384564219
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31903,7 +31905,7 @@ https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-
 
 $$$$
 384652095
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31959,7 +31961,7 @@ https://www.csnpharm.com/products/uracil.html
 
 $$$$
 384994855
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -61.4650   -3.6120    6.6680 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32036,7 +32038,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=177667
 
 $$$$
 384994857
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    10.0800    6.2350   17.3820 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32113,7 +32115,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=177668
 
 $$$$
 384994860
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.9450   -7.9440   17.0570 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32190,7 +32192,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=177669
 
 $$$$
 385643954
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32246,7 +32248,7 @@ https://tools.wmflabs.org/scholia/Q182990
 
 $$$$
 386203515
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    1.3823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32302,7 +32304,7 @@ https://onlinelibrary.wiley.com/
 
 $$$$
 386393272
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32399,7 +32401,7 @@ https://wwwen.uni.lu/lcsb/research/environmental_cheminformatics
 
 $$$$
 386452235
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32455,7 +32457,7 @@ http://www.debyesci.com/cas_51953-14-1.html
 
 $$$$
 386480264
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32507,7 +32509,7 @@ https://scholia.toolforge.org/Q182990
 
 $$$$
 387060632
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.5125   -0.5042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32570,7 +32572,7 @@ http://www.abmole.com/products/uracil.html
 
 $$$$
 387105825
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32604,7 +32606,7 @@ M  END
 387105825
 
 > <PUBCHEM_SUBSTANCE_VERSION>
-30
+31
 
 > <PUBCHEM_EXT_DATASOURCE_NAME>
 23819
@@ -32615,10 +32617,10 @@ ISAKRJDGNUQOIC-UHFFFAOYSA-N
 > <PUBCHEM_SUBSTANCE_COMMENT>
 InChIKey:ISAKRJDGNUQOIC-UHFFFAOYSA-N
 SMILES: O=c1cc[nH]c(=O)[nH]1
-DOIs:10.5281/zenodo.2653020|10.5281/zenodo.2664077|10.5281/zenodo.2628786|10.1039/C8SC04396E|10.5281/zenodo.2621451|10.5281/zenodo.2628860|10.5281/zenodo.2658163|10.5281/zenodo.3247749
+DOIs:10.1039/C8SC04396E|10.5281/zenodo.2664077|10.5281/zenodo.2628860|10.5281/zenodo.2658163|10.5281/zenodo.2653020|10.5281/zenodo.3247749|10.5281/zenodo.2621451|10.5281/zenodo.2628786
 Uracil
-200-621-9
 66-22-8
+200-621-9
 
 > <PUBCHEM_SUBSTANCE_SYNONYM>
 NS00002070
@@ -32634,7 +32636,7 @@ https://www.norman-network.com/nds/SLE/
 
 $$$$
 387195528
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32694,7 +32696,7 @@ https://www.clearsynth.com/en/CSEB02201.html
 
 $$$$
 387201489
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32754,7 +32756,7 @@ https://www.clearsynth.com/en/CSAC11547.html
 
 $$$$
 387208210
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32814,7 +32816,7 @@ https://www.clearsynth.com/en/CSER02193.html
 
 $$$$
 402318513
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -32862,7 +32864,7 @@ https://us.vwr.com/store/product/16638423/uracil-99
 
 $$$$
 402318514
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -32910,7 +32912,7 @@ https://us.vwr.com/store/product/16638423/uracil-99
 
 $$$$
 402318515
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -32958,7 +32960,7 @@ https://us.vwr.com/store/product/16638423/uracil-99
 
 $$$$
 402372975
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.2080   -6.4220   -5.6350 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33035,7 +33037,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=182815
 
 $$$$
 402412469
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33101,7 +33103,7 @@ https://www.aceschem.com/catalog/66-22-8.html
 
 $$$$
 403382681
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.4374    2.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33157,7 +33159,7 @@ https://patentscope.wipo.int/search/en/result.jsf?inchikey=ISAKRJDGNUQOIC-UHFFFA
 
 $$$$
 404736372
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33220,7 +33222,7 @@ https://materials.springer.com/substanceprofile/docs/smsid_maesnpcdqbmhurvw
 
 $$$$
 404754450
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33269,7 +33271,7 @@ https://massbank.eu/MassBank/
 
 $$$$
 404779869
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33332,7 +33334,7 @@ http://www.sinfoobiotech.com/product/1004734
 
 $$$$
 405226880
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33388,7 +33390,7 @@ http://www.enkepharma.com/indexe.php
 
 $$$$
 406506998
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33441,7 +33443,7 @@ https://cancer.wisc.edu/research/
 
 $$$$
 406715270
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     5.8333   -2.4167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33500,7 +33502,7 @@ https://www.matrixscientific.com/139668.html
 
 $$$$
 419485131
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33549,7 +33551,7 @@ https://patents.google.com/?q=ISAKRJDGNUQOIC-UHFFFAOYSA-N
 
 $$$$
 433774942
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33604,7 +33606,7 @@ https://ccsbase.net/
 
 $$$$
 433775967
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33659,7 +33661,7 @@ https://ccsbase.net/
 
 $$$$
 433776899
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33714,7 +33716,7 @@ https://ccsbase.net/
 
 $$$$
 433778145
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33769,7 +33771,7 @@ https://ccsbase.net/
 
 $$$$
 434131514
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -33810,7 +33812,7 @@ http://milbrandt.wustl.edu/
 
 $$$$
 434313298
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.5369   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33915,7 +33917,7 @@ https://www.thebiotek.com/product/inhibitors/bt-285382
 
 $$$$
 434430895
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33967,7 +33969,7 @@ https://chem-space.com/CSSB00000183351
 
 $$$$
 438472610
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.0030   -0.8218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34033,7 +34035,7 @@ https://reagents.alfa-chemistry.com/product/uracil-cas-66-22-8-14783.html
 
 $$$$
 438492689
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.5369   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34137,7 +34139,7 @@ https://www.smolecule.com/products/s546429
 
 $$$$
 438512618
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -34177,7 +34179,7 @@ https://www.win-winchemical.com/
 
 $$$$
 438531068
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34236,7 +34238,7 @@ http://www.3wpharm.com/detail/SWP-0006055.html
 
 $$$$
 438531184
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34295,7 +34297,7 @@ http://www.3wpharm.com/detail/SWOT-86468.html
 
 $$$$
 439958300
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34350,7 +34352,7 @@ https://www.leapchem.com
 
 $$$$
 440069063
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    18.3250  -28.1680   -9.7000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34427,7 +34429,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=192669
 
 $$$$
 440069400
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    19.3520  -29.4900   -9.6280 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34504,7 +34506,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=192749
 
 $$$$
 441085908
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -34544,7 +34546,7 @@ http://www.yickvic.com/
 
 $$$$
 441274615
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34593,7 +34595,7 @@ https://buhrlagelab.dana-farber.org/
 
 $$$$
 441299637
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34649,7 +34651,7 @@ https://www.bumc.bu.edu/microbiology/people/faculty/robert-davey-ph-d/
 
 $$$$
 441555913
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -34689,7 +34691,7 @@ https://www.elsa-biotech.com
 
 $$$$
 441560087
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -34729,7 +34731,7 @@ https://www.elsa-biotech.com
 
 $$$$
 441566058
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    25.3210   42.5420   50.4690 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34806,7 +34808,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=202987
 
 $$$$
 441624701
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.5375   -0.3042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34865,7 +34867,7 @@ https://search.otavachemicals.com/#!/search?query=1312677&type=code&base=dbb
 
 $$$$
 442070168
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34923,7 +34925,7 @@ https://www.daogechem.com/product/66-22-8.html
 
 $$$$
 442146617
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34988,7 +34990,7 @@ http://www.accelachem.com/cn/search.html?keyword=SY008943&attname=GoodsCode
 
 $$$$
 443549136
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35093,7 +35095,7 @@ https://www.benchchem.com/product/b1683738
 
 $$$$
 443639424
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35153,7 +35155,7 @@ https://www.chemenu.com/products/CM361899.html
 
 $$$$
 443831150
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35216,7 +35218,7 @@ https://www.a2bchem.com/66-22-8.html
 
 $$$$
 444085131
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35275,7 +35277,7 @@ https://www.a2bchem.com/51953-14-1.html
 
 $$$$
 445428685
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35324,7 +35326,7 @@ https://hts.ku.edu/
 
 $$$$
 445432286
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35373,7 +35375,7 @@ https://hts.ku.edu/
 
 $$$$
 445794440
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35478,7 +35480,7 @@ https://www.benchchem.com/product/b121893
 
 $$$$
 446085933
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    15.7920    2.7070    6.3300 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35555,7 +35557,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=208557
 
 $$$$
 446144604
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35617,7 +35619,7 @@ https://www.001chemical.com/chem/66-22-8
 
 $$$$
 446814216
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     2.5369   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35722,7 +35724,7 @@ https://www.thebiotek.com/product/bt-1200511
 
 $$$$
 446859753
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35785,7 +35787,7 @@ https://www.synblock.com/product/66-22-8.html
 
 $$$$
 446860148
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35848,7 +35850,7 @@ https://www.synblock.com/product/51953-14-1.html
 
 $$$$
 447413655
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35945,7 +35947,7 @@ https://www.dkfz.de/en/index.html
 
 $$$$
 459144671
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -35985,7 +35987,7 @@ http://www.yickvic.com/
 
 $$$$
 459165413
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36037,7 +36039,7 @@ https://wwwen.uni.lu/lcsb/research/environmental_cheminformatics
 
 $$$$
 459193812
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36095,7 +36097,7 @@ https://www.thermofisher.com/order/catalog/product/157305000
 
 $$$$
 459197952
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36153,7 +36155,7 @@ https://www.thermofisher.com/order/catalog/product/157300250
 
 $$$$
 459197953
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36211,7 +36213,7 @@ https://www.thermofisher.com/order/catalog/product/157301000
 
 $$$$
 459209127
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36269,7 +36271,7 @@ https://www.thermofisher.com/order/catalog/product/A15570.18
 
 $$$$
 459220879
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36327,7 +36329,7 @@ https://www.thermofisher.com/order/catalog/product/157300025
 
 $$$$
 459239567
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36385,7 +36387,7 @@ https://www.thermofisher.com/order/catalog/product/A15570.0B
 
 $$$$
 459239568
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36443,7 +36445,7 @@ https://www.thermofisher.com/order/catalog/product/A15570.30
 
 $$$$
 459342417
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -36483,7 +36485,7 @@ https://enovationchem.com/PDetailP.asp?PID=Y1192555
 
 $$$$
 461596681
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36584,7 +36586,7 @@ https://www.nlm.nih.gov/databases/download/cpdb.html
 
 $$$$
 461680149
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.1983   -0.9282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36655,7 +36657,7 @@ http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50549
 
 $$$$
 462373979
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36704,7 +36706,7 @@ https://cheminf.uni-jena.de
 
 $$$$
 462729237
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    -3.8590   57.2610   46.1400 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36789,7 +36791,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=213963
 
 $$$$
 463768161
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.5417   -2.6292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36852,7 +36854,7 @@ http://www.chemyuhao.com/66-22-8.html
 
 $$$$
 464244593
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36912,7 +36914,7 @@ https://www.lgcstandards.com/GB/en/p/DRE-C17897200
 
 $$$$
 464482395
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37013,7 +37015,7 @@ https://www.starshinechemical.com
 
 $$$$
 464937011
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
  12 12  0     0  0  0  0  0  0999 V2000
    -7.2200   24.2050  -20.8000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37098,7 +37100,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=215866
 
 $$$$
 468630846
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37141,96 +37143,8 @@ http://www.jhechem.com/ProductDetail/37208
 1174  1
 
 $$$$
-468745273
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "2,4(1H,3H)-Pyrimidinedione" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-468745273
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-23794
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-JH175484
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-173379-73-2
-2,4(1H,3H)-Pyrimidinedione
-4'-C-AZIDO-2'-DEOXY-2'-FLUORO-B-D-ARABINOURIDINE
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-173379-73-2
-
-> <PUBCHEM_XREF_EXT_ID>
-JH175484
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-http://www.jhechem.com
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-http://www.jhechem.com/ProductDetail/175484
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
-468784680
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6", "URACIL-6-D1" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-468784680
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-23794
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-JH225323
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-24897-51-6
-URACIL-6-D1
-6-deuterio-1H-pyrimidine-2,4-dione
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-51-6
-
-> <PUBCHEM_XREF_EXT_ID>
-JH225323
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-http://www.jhechem.com
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-http://www.jhechem.com/ProductDetail/225323
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
 468838340
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37274,7 +37188,7 @@ http://www.jhechem.com/ProductDetail/301632
 
 $$$$
 468857836
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37317,8 +37231,96 @@ http://www.jhechem.com/ProductDetail/321308
 1174  1
 
 $$$$
+468857844
+  -OEChem-05112513032D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_SUBS_AUTO_STRUCTURE>
+Deposited Substance chemical structure was generated via Synonym(s) "51953-19-6", "2(1H)-Pyrimidinone, 4-hydroxy-" and Synonym Consistency to be CID 1174
+
+> <PUBCHEM_SUBSTANCE_ID>
+468857844
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+23794
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+JH321316
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+51953-19-6
+2(1H)-Pyrimidinone, 4-hydroxy-
+4(6)-HYDROXYPYRIMIDINE
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+51953-19-6
+
+> <PUBCHEM_XREF_EXT_ID>
+JH321316
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+http://www.jhechem.com
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://www.jhechem.com/ProductDetail/321316
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+$$$$
+469422143
+  -OEChem-05112513032D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_SUBS_AUTO_STRUCTURE>
+Deposited Substance chemical structure was generated via Synonym(s) "66224-60-0", "2(1H)-Pyrimidinone, 6-hydroxy-" and Synonym Consistency to be CID 1174
+
+> <PUBCHEM_SUBSTANCE_ID>
+469422143
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+23794
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+JH425441
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+66224-60-0
+2(1H)-Pyrimidinone, 6-hydroxy-
+1,4-Oxaphosphorinanium,2,2,6-trimethyl-4,4-diphenyl-,bromide
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+66224-60-0
+
+> <PUBCHEM_XREF_EXT_ID>
+JH425441
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+http://www.jhechem.com
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://www.jhechem.com/ProductDetail/425441
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+$$$$
 469458549
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37360,8 +37362,50 @@ http://www.jhechem.com/ProductDetail/739887
 1174  1
 
 $$$$
+470538389
+  -OEChem-05112513032D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_SUBS_AUTO_STRUCTURE>
+Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6" and Synonym Consistency to be CID 1174
+
+> <PUBCHEM_SUBSTANCE_ID>
+470538389
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+2
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+25432
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+CQ_24897-51-6
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+24897-51-6
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+24897-51-6
+
+> <PUBCHEM_XREF_EXT_ID>
+CQ_24897-51-6
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://cymitquimica.com/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://cymitquimica.com/cas/24897-51-6/?cpm_campaign=pubchem
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+$$$$
 470635957
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37403,7 +37447,7 @@ https://cymitquimica.com/cas/51953-14-1/?cpm_campaign=pubchem
 
 $$$$
 470681883
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37445,21 +37489,37 @@ https://cymitquimica.com/cas/66-22-8/?cpm_campaign=pubchem
 
 $$$$
 472457198
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
-  0  0  0     0  0  0  0  0  0999 V2000
+  8  8  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  2  0  0  0  0
 M  END
 > <PUBCHEM_COMPOUND_ID_TYPE>
 0
 
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "uracil" and MeSH to be CID 1174
+> <PUBCHEM_TOTAL_CHARGE>
+0
 
 > <PUBCHEM_SUBSTANCE_ID>
 472457198
 
 > <PUBCHEM_SUBSTANCE_VERSION>
-2
+3
 
 > <PUBCHEM_EXT_DATASOURCE_NAME>
 20926
@@ -37468,8 +37528,8 @@ Deposited Substance chemical structure was generated via Synonym(s) "uracil" and
 R000635
 
 > <PUBCHEM_SUBSTANCE_SYNONYM>
-66-22-8
 Uracil
+66-22-8
 
 > <PUBCHEM_GENERIC_REGISTRY_NAME>
 66-22-8
@@ -37487,51 +37547,8 @@ http://www.rrscientific.com/product/info/635
 1174  1
 
 $$$$
-472593852
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6", "Uracil-6-D1" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-472593852
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-20926
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-R161722
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-24897-51-6
-Uracil-6-D1
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-51-6
-
-> <PUBCHEM_XREF_EXT_ID>
-R161722
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-http://www.rrscientific.com
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-http://www.rrscientific.com/product/info/161722
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
 472723672
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37574,7 +37591,7 @@ http://www.rrscientific.com/product/info/230024
 
 $$$$
 472841770
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37640,7 +37657,7 @@ https://www.alfa-chemistry.com/cas_144104-68-7.htm
 
 $$$$
 472909472
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37706,7 +37723,7 @@ https://www.alfa-chemistry.com/cas_66255-05-8.htm
 
 $$$$
 472993180
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37815,7 +37832,7 @@ https://www.scbt.com/p/uracil-66-22-8
 
 $$$$
 473794231
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.3337    3.8500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37882,7 +37899,7 @@ https://www.enaminestore.com/catalog/EN300-17138
 
 $$$$
 475813502
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -37925,7 +37942,7 @@ http://www.rrscientific.com/product/info/340879
 
 $$$$
 476131270
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37991,7 +38008,7 @@ https://www.001chemical.com/chem/51953-14-1
 
 $$$$
 478162036
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38055,7 +38072,7 @@ http://www.thoreauchem.com/prod/46809/
 
 $$$$
 478251635
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38114,7 +38131,7 @@ http://www.cookechem.com/Detail/A8329212.htm
 
 $$$$
 479834437
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.7713    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38177,7 +38194,7 @@ https://www.aablocks.com/prod/24897-51-6
 
 $$$$
 479834643
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.7713    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38240,7 +38257,7 @@ https://www.aablocks.com/prod/24897-50-5
 
 $$$$
 479834678
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.7713    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38303,7 +38320,7 @@ https://www.aablocks.com/prod/24897-52-7
 
 $$$$
 479834682
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.7713    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38366,7 +38383,7 @@ https://www.aablocks.com/prod/24897-55-0
 
 $$$$
 479834708
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.7713    1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38429,7 +38446,7 @@ https://www.aablocks.com/prod/20666-60-8
 
 $$$$
 480507049
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38488,21 +38505,21 @@ https://www.a2bchem.com/24897-51-6.html
 
 $$$$
 481107678
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7320   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.5981    0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.5981   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7320    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.8660    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7320   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.1350    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.3291    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7320    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  5  2  0  0  0  0
   2  6  2  0  0  0  0
   3  5  1  0  0  0  0
@@ -38526,7 +38543,7 @@ Bypass - this structure was created from CID 1174
 481107678
 
 > <PUBCHEM_SUBSTANCE_VERSION>
-2
+3
 
 > <PUBCHEM_EXT_DATASOURCE_NAME>
 26136
@@ -38596,7 +38613,7 @@ Urazil
 
 $$$$
 482097135
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.3530   -5.0070   20.0630 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38673,7 +38690,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231964
 
 $$$$
 482097140
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     3.0440   -7.4560   18.3210 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38750,7 +38767,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231966
 
 $$$$
 482097143
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.5840   -5.4320   -6.5540 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38827,7 +38844,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231968
 
 $$$$
 482097148
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -0.3970   -5.6930   20.2000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38904,7 +38921,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231970
 
 $$$$
 482097152
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.5320   -5.5030   -6.6020 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38981,7 +38998,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231972
 
 $$$$
 482097156
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.6210   -5.4240   -6.5430 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39058,7 +39075,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231974
 
 $$$$
 482097163
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.4490   -5.4360   -6.5630 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39135,7 +39152,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=231978
 
 $$$$
 482142625
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39194,7 +39211,7 @@ https://www.probes-drugs.org/compound/PD001670
 
 $$$$
 482371380
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39253,7 +39270,7 @@ http://www.cookechem.com/Detail/S6149049.htm
 
 $$$$
 483122253
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    36.9040    4.4080   13.9050 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39330,7 +39347,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=233706
 
 $$$$
 483474716
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    13.9700   35.3070   56.1050 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39407,7 +39424,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=234410
 
 $$$$
 484202762
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    36.9160   38.5060  -11.1320 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39484,7 +39501,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=237329
 
 $$$$
 484261624
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39547,7 +39564,7 @@ http://synquestlabs.com/product/id/60523.html
 
 $$$$
 485171072
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39652,7 +39669,7 @@ https://www.evitachem.com/product/evt-7867985
 
 $$$$
 485171585
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39757,7 +39774,7 @@ https://www.evitachem.com/product/evt-7899321
 
 $$$$
 485324314
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39815,51 +39832,8 @@ https://www.lgcstandards.com/CA/en/p/TRC-U801000-1G
 1174  1
 
 $$$$
-485324317
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6", "Uracil-6-d1" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-485324317
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-15699
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-TRC-U801005
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-24897-51-6
-Uracil-6-d1
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-51-6
-
-> <PUBCHEM_XREF_EXT_ID>
-TRC-U801005
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-https://www.lgcstandards.com/US/en/
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-http://www.trc-canada.com/product-detail/?U801005
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
 485396567
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39922,7 +39896,7 @@ https://www.ariboreagent.com/products/66-22-8.html
 
 $$$$
 486142365
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39983,148 +39957,112 @@ https://www.molcore.com/product/51953-14-1
 1174  1
 
 $$$$
-486421013
-  -OEChem-04102512422D
+488179605
+  -OEChem-05112513032D
 
-  0  0  0     0  0  0  0  0  0999 V2000
+ 12 12  0     0  0  0  0  0  0999 V2000
+    5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  1  0  0  0  0
 M  END
 > <PUBCHEM_COMPOUND_ID_TYPE>
 0
 
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-486421013
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-11764
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-ACM24897516
-
-> <PUBCHEM_SUBSTANCE_COMMENT>
-As a global leading chemical vendor, Alfa Chemistry is ISO 9001:2015 certified and has served the pharmaceutical and biotechnology industries for years. The company offers an extensive catalog of building blocks, research chemicals, reagents, catalysts, reference materials, pheromones, functional polymers, MOFs, resins, ionic liquids, polymer stabilizers, surfactants, organic silicon products as well as semiconductor materials for applications in various areas. We supply 2,4(1H,3H)-Pyrimidinedione-6-d(9ci) CAS 24897-51-6.
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-24897-51-6
-2,4(1H,3H)-Pyrimidinedione-6-d(9ci)
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-51-6
-
-> <PUBCHEM_XREF_EXT_ID>
-ACM24897516
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-https://www.alfa-chemistry.com/
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-https://www.alfa-chemistry.com/cas_24897-51-6.htm
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
-488244500
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
+> <PUBCHEM_TOTAL_CHARGE>
 0
 
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-51-6", "URACIL-6-D1" and Synonym Consistency to be CID 1174
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
 
-> <PUBCHEM_SUBSTANCE_ID>
-488244500
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-4398
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-24897-51-6
-
-> <PUBCHEM_SUBSTANCE_COMMENT>
-BOC Sciences provides a wide range of research chemicals and biochemicals including inhibitors, building blocks, GMP Products, impurities and metabolites, APIs for veterinary, natural compounds, ADCs, stem cell molecule, and chiral compounds. We offer 2,4(1H,3H)-Pyrimidinedione-6-d(9CI) CAS: 24897-51-6 in bulk.
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-2,4(1H,3H)-Pyrimidinedione-6-d(9CI)
-24897-51-6
-URACIL-6-D1
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-51-6
-
-> <PUBCHEM_XREF_EXT_ID>
-24897-51-6
-
-> <PUBCHEM_EXT_DATASOURCE_URL>
-https://www.bocsci.com/
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-https://www.bocsci.com/2-4-1h-3h-pyrimidinedione-6-d-9ci-cas-24897-51-6-item-60131.html
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
-488267027
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "2,4(1H,3H)-Pyrimidinedione" and Synonym Consistency to be CID 1174
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <PUBCHEM_SUBSTANCE_ID>
-488267027
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <PUBCHEM_SUBSTANCE_VERSION>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_SUBSTANCE_ID>
+488179605
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+3
+
 > <PUBCHEM_EXT_DATASOURCE_NAME>
-4398
+26699
 
 > <PUBCHEM_EXT_DATASOURCE_REGID>
-22441-51-6
-
-> <PUBCHEM_SUBSTANCE_COMMENT>
-BOC Sciences provides a wide range of research chemicals and biochemicals including inhibitors, building blocks, GMP Products, impurities and metabolites, APIs for veterinary, natural compounds, ADCs, stem cell molecule, and chiral compounds. We offer 1-(2-hydroxyethyl)thymine CAS: 22441-51-6 in bulk.
+U102087
 
 > <PUBCHEM_SUBSTANCE_SYNONYM>
-1-(2-hydroxyethyl)thymine
-22441-51-6
-2,4(1H,3H)-Pyrimidinedione
+Uracil
+66-22-8
 
 > <PUBCHEM_GENERIC_REGISTRY_NAME>
-22441-51-6
+66-22-8
 
 > <PUBCHEM_XREF_EXT_ID>
-22441-51-6
+U102087
 
 > <PUBCHEM_EXT_DATASOURCE_URL>
-https://www.bocsci.com/
+https://www.aladdinsci.com
 
 > <PUBCHEM_EXT_SUBSTANCE_URL>
-https://www.bocsci.com/product/1-2-hydroxyethyl-thymine-cas-22441-51-6-447958.html
+https://www.aladdinsci.com/uracil-bioactive-small-molecules-by-aladdin-scientific-u102087.html
 
 > <PUBCHEM_CID_ASSOCIATIONS>
 1174  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  5  8
+3  6  8
+4  5  8
+4  7  8
+6  8  8
+7  8  8
 
 $$$$
 488322616
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   0  0  0     0  0  0  0  0  0999 V2000
 M  END
@@ -40172,7 +40110,7 @@ https://natuprod.bocsci.com/product/uracil-cas-66-22-8-291312.html
 
 $$$$
 488360942
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   -11.3830   90.7910   89.6700 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40249,7 +40187,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=10199
 
 $$$$
 488361016
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
    16.3830    2.2180    6.4050 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40326,7 +40264,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=242498
 
 $$$$
 488964901
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40388,7 +40326,7 @@ https://www.capotchem.com/15018-56-1.html
 
 $$$$
 489050206
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40448,7 +40386,7 @@ https://zeropm.eu/
 
 $$$$
 489408421
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40511,7 +40449,7 @@ https://shop.activate-scientific.com/code/AS152344
 
 $$$$
 490174120
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40568,7 +40506,7 @@ https://www.debyesci.com/cas_51953-19-6.html
 
 $$$$
 490174146
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40625,7 +40563,7 @@ https://www.debyesci.com/cas_66224-60-0.html
 
 $$$$
 490188399
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40682,7 +40620,7 @@ https://www.debyesci.com/cas_51953-20-9.html
 
 $$$$
 490188517
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40739,7 +40677,7 @@ https://www.debyesci.com/cas_66255-05-8.html
 
 $$$$
 490659153
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     1.9628    0.9319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40798,7 +40736,7 @@ https://search.emolecules.com/search/#?querytype=emoleculesid&p=1&query=514222
 
 $$$$
 490730678
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.3558    0.0008    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40857,7 +40795,7 @@ https://search.emolecules.com/search/#?querytype=emoleculesid&p=1&query=3726817
 
 $$$$
 491176029
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40919,7 +40857,7 @@ https://www.hairuichem.com/en/product/51953-14-1.html
 
 $$$$
 491522887
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40982,7 +40920,7 @@ https://www.10xchem.com/prod/66-22-8
 
 $$$$
 491598268
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41045,7 +40983,7 @@ https://www.10xchem.com/prod/51953-14-1
 
 $$$$
 491747370
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     4.2667   -2.8000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41098,7 +41036,7 @@ http://innovapharm.com.ua/
 
 $$$$
 491766916
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     6.2187   12.4937   13.5669 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41175,7 +41113,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=245196
 
 $$$$
 495662991
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41234,7 +41172,7 @@ https://www.a2bchem.com/20666-60-8.html
 
 $$$$
 496103903
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41294,7 +41232,7 @@ https://www.lgcstandards.com/GB/en/p/TRC-U801000-50MG
 
 $$$$
 496103904
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41354,7 +41292,7 @@ https://www.lgcstandards.com/GB/en/p/TRC-U801000-5G
 
 $$$$
 496103905
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41414,7 +41352,7 @@ https://www.lgcstandards.com/GB/en/p/TRC-U801000-1G
 
 $$$$
 496131809
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41472,7 +41410,7 @@ https://github.com/IUPAC/Dissociation-Constants
 
 $$$$
 496134968
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41536,7 +41474,7 @@ https://github.com/IUPAC/Dissociation-Constants
 
 $$$$
 496171790
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     8.6260    8.1370   15.3360 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41612,48 +41550,8 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=247509
 4
 
 $$$$
-496216322
-  -OEChem-04102512422D
-
-  0  0  0     0  0  0  0  0  0999 V2000
-M  END
-> <PUBCHEM_COMPOUND_ID_TYPE>
-0
-
-> <PUBCHEM_SUBS_AUTO_STRUCTURE>
-Deposited Substance chemical structure was generated via Synonym(s) "24897-50-5", "URACIL-5-D1" and Synonym Consistency to be CID 1174
-
-> <PUBCHEM_SUBSTANCE_ID>
-496216322
-
-> <PUBCHEM_SUBSTANCE_VERSION>
-1
-
-> <PUBCHEM_EXT_DATASOURCE_NAME>
-15327
-
-> <PUBCHEM_EXT_DATASOURCE_REGID>
-Y3184028
-
-> <PUBCHEM_SUBSTANCE_SYNONYM>
-24897-50-5
-URACIL-5-D1
-
-> <PUBCHEM_GENERIC_REGISTRY_NAME>
-24897-50-5
-
-> <PUBCHEM_XREF_EXT_ID>
-Y3184028
-
-> <PUBCHEM_EXT_SUBSTANCE_URL>
-https://enovationchem.com/PDetailP.asp?PID=Y3184028
-
-> <PUBCHEM_CID_ASSOCIATIONS>
-1174  1
-
-$$$$
 496693680
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41716,7 +41614,7 @@ https://www.finetechnology-ind.com/prod/detail/66-22-8
 
 $$$$
 497395085
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41784,7 +41682,7 @@ http://www.allbiopharm.com/product/n/AB12286
 
 $$$$
 500583205
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41878,7 +41776,7 @@ http://molgenie.com/
 
 $$$$
 503270699
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41946,7 +41844,7 @@ https://www.invivochem.com/uracil.html
 
 $$$$
 503322083
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42009,7 +41907,7 @@ https://www.appchemical.com/products/66-22-8?cas=66-22-8
 
 $$$$
 503665802
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.3856    0.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42072,7 +41970,7 @@ https://www.appchemical.com/products/51953-14-1?cas=51953-14-1
 
 $$$$
 504064539
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
   176.0140  227.4800  247.2340 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42149,7 +42047,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=254324
 
 $$$$
 504096172
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
    -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42209,7 +42107,7 @@ https://www.medchemexpress.com/uracil-standard.html
 
 $$$$
 504750474
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  12 12  0     0  0  0  0  0  0999 V2000
     5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42313,7 +42211,7 @@ https://www.aladdinsci.com/uracil-bioactive-small-molecules-by-aladdin-scientifi
 
 $$$$
 505096927
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42372,7 +42270,7 @@ https://www.chemimpex.com/products/31792
 
 $$$$
 505246681
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42433,7 +42331,7 @@ https://www.biosynth.com/p/FU01843/66-22-8-uracil
 
 $$$$
 505358943
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42493,7 +42391,7 @@ https://www.biosynth.com/p/ZAA89752/24897-52-7-uracil-56-d2
 
 $$$$
 506238301
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42552,7 +42450,7 @@ https://synhet.com/products/CAS-66-22-8
 
 $$$$
 506395581
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42601,7 +42499,7 @@ https://patents.google.com/?q=CRQNNHMNJFPQPO-UHFFFAOYSA-N
 
 $$$$
 506601394
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   9  9  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42652,7 +42550,7 @@ https://patents.google.com/?q=HZUQREFRMUVPFU-UHFFFAOYSA-N
 
 $$$$
 507507578
-  -OEChem-04102512423D
+  -OEChem-05112513033D
 
   8  8  0     0  0  0  0  0  0999 V2000
     2.9539   11.5930    7.4658 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42729,7 +42627,7 @@ https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=260808
 
 $$$$
 507587335
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
  10 10  0     0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42792,7 +42690,7 @@ https://www.accelsci.com/pro/66-22-8
 
 $$$$
 508294990
-  -OEChem-04102512422D
+  -OEChem-05112513032D
 
   8  8  0     0  0  0  0  0  0999 V2000
     3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42849,6 +42747,317 @@ https://store.aifchem.com/
 
 > <PUBCHEM_EXT_SUBSTANCE_URL>
 https://store.aifchem.com/aif/goods/detail/51953-14-1
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+$$$$
+508717570
+  -OEChem-05112513032D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_SUBS_AUTO_STRUCTURE>
+Deposited Substance chemical structure was generated via Synonym(s) "51953-14-1", "Pyrimidine-2,4-diol" and Synonym Consistency to be CID 1174
+
+> <PUBCHEM_SUBSTANCE_ID>
+508717570
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+15327
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+Y4040173
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+51953-14-1
+Pyrimidine-2,4-diol
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+51953-14-1
+
+> <PUBCHEM_XREF_EXT_ID>
+Y4040173
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://enovationchem.com/PDetailP.asp?PID=Y4040173
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+$$$$
+508813330
+  -OEChem-05112513032D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_SUBSTANCE_ID>
+508813330
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+26699
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+U102088
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+Uracil
+66-22-8
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+66-22-8
+
+> <PUBCHEM_XREF_EXT_ID>
+U102088
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.aladdinsci.com
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.aladdinsci.com/uracil-bioactive-small-molecules-by-aladdin-scientific-u102088.html
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  5  8
+3  6  8
+4  5  8
+4  7  8
+6  8  8
+7  8  8
+
+$$$$
+508824098
+  -OEChem-05112513032D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    5.4641   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_SUBSTANCE_ID>
+508824098
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+22018
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+MSK000882
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+66-22-8
+Uracil
+MSK000882
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+66-22-8
+
+> <PUBCHEM_XREF_EXT_ID>
+MSK000882
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+http://achemtek.com/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://www.achemtek.com/products/MSK000882
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+1174  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  5  8
+3  6  8
+4  5  8
+4  7  8
+6  8  8
+7  8  8
+
+$$$$
+508841625
+  -OEChem-05112513032D
+
+  8  8  0     0  0  0  0  0  0999 V2000
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+508841625
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+ICCB-Longwood/NSRB Screening Facility, Harvard Medical School
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+HMS5082D06
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+Selleck Chemicals:S4177
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+HMS5082D06
+
+> <PUBCHEM_XREF_EXT_ID>
+HMS5082D06
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://iccb.med.harvard.edu/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://iccb.med.harvard.edu/known-bioactives-collection
 
 > <PUBCHEM_CID_ASSOCIATIONS>
 1174  1
