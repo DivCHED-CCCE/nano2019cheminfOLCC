@@ -1,0 +1,72 @@
+#!/bin/sh
+
+# Copy all files from a source directory to a target directory that matches
+# a specific file type suffix.
+# Arg 1: The file type. e.g. md, csv, npz
+# Arg 2: The source directory path.
+# Arg 3: The target directory path
+copyFileType () {
+fileType=$1
+sourceDir=$2
+targetDir=$3
+
+# Get a list of file from the source directory that has the file type
+# suffix.
+for file in $(find ${sourceDir} -name "*.${fileType}")
+do
+   # Get the copy file name without the source directory path
+   # attached. Preserve the directory path within the source
+   # directory.
+   copyFile=$(echo ${file} | sed "s:^${sourceDir}/::")
+ 
+   # Get the directory name of the copyFile
+   copyDir=$(dirname $copyFile)
+
+   # If the directory does not exist within the target directory
+   # create the directory path for the copy file.
+   if [ ! -d ${targetDir}/${copyDir} ]; then
+       mkdir -p ${targetDir}/${copyDir}
+   fi
+
+   # Copy the file from the source directory to the target directory.
+   cp ${file} ${targetDir}/${copyFile}
+done
+}
+
+# Get the middleware and tool directories, the tool directory will be used to copy the
+# symlinks to the user directory.
+middlewareDirectory=$(readlink -f $(dirname $0))
+toolDirectory=$(realpath ${middlewareDirectory}/..)
+revision=$(basename $(realpath ${toolDirectory}))
+
+# Set the directory to copy the symlinks for the jupyter files. The directory
+# containing the links will be ${HOME}/CHEMINF2019OLCC
+userDirectory=${HOME}/CHEMINF2019OLCC/${revision}
+
+# If the user directory does not exist then create the user directory.
+if [ ! -d ${userDirectory} ]; then
+   # Create the user directory.
+   mkdir -p ${userDirectory}
+
+   # Copy all files matching set of filetypes.  These files
+   # can be modified by users.
+   copyFileType "ipynb" ${toolDirectory} ${userDirectory}
+   copyFileType "md" ${toolDirectory} ${userDirectory}
+   copyFileType "sdf" ${toolDirectory} ${userDirectory}
+   copyFileType "csv" ${toolDirectory} ${userDirectory}
+   
+   # Copy all other file as symlinks, do not override alreadying
+   # exisiting hard copied files.  These files will read only and
+   # changeable by users.
+   cp --symbolic-link --recursive --no-clobber ${toolDirectory}/my_pack ${userDirectory}
+   cp --symbolic-link --recursive --no-clobber ${toolDirectory}/lect*   ${userDirectory}
+fi
+
+#
+# jupyter tool
+#
+/usr/bin/invoke_app "$@" -t cheminf2019olcc \
+                         -C "start_jupyterlab ${userDirectory}/cheminfOLCC2019.ipynb" \
+                         -u anaconda-7 \
+                         -r none \
+                         -w headless

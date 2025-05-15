@@ -14,22 +14,22 @@ targetDir=$3
 # suffix.
 for file in $(find ${sourceDir} -name "*.${fileType}")
 do
-   # Get the copy file name without the source directory path
-   # attached. Preserve the directory path within the source
-   # directory.
-   copyFile=$(echo ${file} | sed "s:^${sourceDir}/::")
- 
-   # Get the directory name of the copyFile
-   copyDir=$(dirname $copyFile)
+  # Get the copy file name without the source directory path
+  # attached. Preserve the directory path within the source
+  # directory.
+  copyFile=$(echo ${file} | sed "s:^${sourceDir}/::")
 
-   # If the directory does not exist within the target directory
-   # create the directory path for the copy file.
-   if [ ! -d ${targetDir}/${copyDir} ]; then
-       mkdir -p ${targetDir}/${copyDir}
-   fi
+  # Get the directory name of the copyFile
+  copyDir=$(dirname $copyFile)
 
-   # Copy the file from the source directory to the target directory.
-   cp ${file} ${targetDir}/${copyFile}
+  # If the directory does not exist within the target directory
+  # create the directory path for the copy file.
+  if [ ! -d ${targetDir}/${copyDir} ]; then
+      mkdir -p ${targetDir}/${copyDir}
+  fi
+
+  # Copy the file from the source directory to the target directory.
+  cp ${file} ${targetDir}/${copyFile}
 done
 }
 
@@ -45,28 +45,29 @@ userDirectory=${HOME}/CHEMINF2019OLCC/${revision}
 
 # If the user directory does not exist then create the user directory.
 if [ ! -d ${userDirectory} ]; then
-   # Create the user directory.
-   mkdir -p ${userDirectory}
+  # Create the user directory.
+  mkdir -p ${userDirectory}
 
-   # Copy all files matching set of filetypes.  These files
-   # can be modified by users.
-   copyFileType "ipynb" ${toolDirectory} ${userDirectory}
-   copyFileType "md" ${toolDirectory} ${userDirectory}
-   copyFileType "sdf" ${toolDirectory} ${userDirectory}
-   copyFileType "csv" ${toolDirectory} ${userDirectory}
-   
-   # Copy all other file as symlinks, do not override alreadying
-   # exisiting hard copied files.  These files will read only and
-   # changeable by users.
-   cp --symbolic-link --recursive --no-clobber ${toolDirectory}/my_pack ${userDirectory}
-   cp --symbolic-link --recursive --no-clobber ${toolDirectory}/lect*   ${userDirectory}
+  # Copy all files matching set of filetypes.  These files
+  # can be modified by users.
+  copyFileType "ipynb" ${toolDirectory} ${userDirectory}
+  copyFileType "md" ${toolDirectory} ${userDirectory}
+  copyFileType "sdf" ${toolDirectory} ${userDirectory}
+  copyFileType "csv" ${toolDirectory} ${userDirectory}
+  copyFileType "mol" ${toolDirectory} ${userDirectory}
+  copyFileType "ism" ${toolDirectory} ${userDirectory}
+
+  # Copy all other file as symlinks, do not override alreadying
+  # exisiting hard copied files.  These files will read only and
+  # changeable by users.
+  cp --symbolic-link --recursive --no-clobber ${toolDirectory}/lect*   ${userDirectory}
 fi
 
 #
 # jupyter tool
 #
 /usr/bin/invoke_app "$@" -t cheminf2019olcc \
-                         -C "start_jupyterlab ${userDirectory}/cheminfOLCC2019.ipynb" \
-                         -u anaconda-7 \
-                         -r none \
-                         -w headless
+                        -C "start_jupyterlab ${userDirectory}/cheminfOLCC2019.ipynb" \
+                        -u anaconda-7 \
+                        -r none \
+                        -w headless
